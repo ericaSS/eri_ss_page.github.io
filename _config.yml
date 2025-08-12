@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "test.png"
+  avatar           : "images/test.png"
   name             : "Shuxin (Erica) Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Computer Science & Cybersecurity"
