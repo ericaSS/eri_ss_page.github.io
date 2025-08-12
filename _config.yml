@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_2.png"
-  name             : "Erica Zhou"
+  avatar           : "test.png"
+  name             : "Shuxin (Erica) Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Computer Science & Cybersecurity"
   location         : "Earth"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Gowiv4oAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
