@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : test.png
+  avatar           : "images/test.png"
   name             : "Shuxin (Erica) Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Computer Science & Cybersecurity"
-  location         : "Earth"
+  location         : "@Brooklyn"
   employer         : "St. Francis College"
   uri              : # URL
   email            : "N/A" 
@@ -274,13 +274,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
