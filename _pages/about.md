@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor in St.Francis College | PhD in Computer Science @ NJIT | Biomedical Informatics Researcher | BIOSTEC 2025 Session Chair | IEEE-BIBM2024/2025 Program Committee
+Assistant Professor in St.Francis College ❗️ PhD in Computer Science @ NJIT ❗️ Biomedical Informatics Researcher ❗️ BIOSTEC 2025 Session Chair ❗️ IEEE-BIBM2024/2025 Program Committee
 
 About me
 ======
@@ -19,6 +19,7 @@ Ultimately, my long-term goal is to advance AI-driven methods that can enhance k
 
 Publications
 ======
+
 2025
 ------
 - Zhou, S., Liu, H., Sen, P., Perl, Y., & Dehkordi, M.K. (2025). CFC Annotator: A Cluster-Focused Combination Algorithm for Annotating Electronic Health Records by Referencing Interface Terminology. BIOSTEC : HEALTHINF.
@@ -39,6 +40,8 @@ Site-wide configuration
 ------  
 - Keloth, V.K., Zhou, S., Einstein, A.J., Elhanan, G., Chen, Y., Geller, J., & Perl, Y. (2020). Generating Training Data for Concept-Mining for an ‘Interface Terminology’ Annotating Cardiology EHRs. 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 1728-1735.
 - Keloth, V.K., Zhou, S., Lindemann, L., Elhanan, G., Einstein, A.J., Geller, J., & Perl, Y. (2020). Mining Concepts for a COVID Interface Terminology for Annotation of EHRs. 2020 IEEE International Conference on Big Data (Big Data), 3753-3760.
+
+
 
 Patent
 ======
