@@ -3,9 +3,9 @@ title: "CFC Annotator: Cluster-focused Combination Algorithm for Annotating Elec
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Conference 1'
+excerpt: 'N/A'
+date: 2025-2-1
+venue: '18th International Joint Conference on Biomedical Engineering Systems and Technologies'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'S, Zhou, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
